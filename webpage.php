@@ -4,10 +4,10 @@
     <link rel = "stylesheet" type = "text/css" href = "style.css"> 
 </head>
 <body>
-
 <div>
 <div class="txtheader">BERYLLIUM</div>
-<ul class="navi">
+<div class="navi">
+<ul>
   <li>HOME</li>
   <li>ABOUT</li>
   <li>SERVICES</li>
@@ -15,6 +15,7 @@
   <li>PORTFOLIO</li>
   <li>CONTACT</li>
 </ul>
+</div>
 </div>
 
 <div class="row">
