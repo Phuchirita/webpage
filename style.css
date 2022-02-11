@@ -1,5 +1,11 @@
 .txtheader{
     padding: 30px;
-    text-align: left;
     font-size: 20px;
+    width: 80%; 
+}
+.body{
+        width: 80%; 
+}
+.navi{
+    float:right;
 }
