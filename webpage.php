@@ -71,7 +71,7 @@
 
 
 <!-- Paragrap Text 2 column -->
-<div class="row" style="width: 100%;padding-top:30px;">
+<div class="row">
   <div class="column" style="width:50%;">
     <div>New</div>
     <div>SEPTEMBER 10,2016</div>
