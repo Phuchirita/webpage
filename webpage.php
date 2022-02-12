@@ -3,7 +3,7 @@
 <head>
     <link rel = "stylesheet" type = "text/css" href = "style.css"> 
 </head>
-<body>
+<body style="width: 60%;">
     
 <div class="txtheader">
 <a>BERYLLIUM</a>
@@ -15,7 +15,7 @@
 <a>CONTACT</a>
 </div>
 
-<div style="width: 60%;">
+<div >
 <div class="slideshow-container">
 
 <div class="mySlides fade">
