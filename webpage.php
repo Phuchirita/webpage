@@ -47,25 +47,20 @@
 </div>
 <br>
 <!--Slide Image dot-->
-<div class="row">
+
 <div class="slides-container">
 
-
-  <div class="column">
     <div class="content">
       <img src="img_1.jpg" style="width:50%">
       <div>New York Area</div>
       <div>New York</div>
     </div>
-  </div>
-  <div class="column">
+
     <div class="content">
       <img src="img_2.jpg" style="width:50%">
       <div>Eagel Park</div>
       <div>London</div>
     </div>
-  </div>
-
 
 <div style="text-align:center">
   <span class="dot" onclick="currentSlide2(1)"></span> 
@@ -76,7 +71,7 @@
 <a class="prev" onclick="plusSlides2(-1)">&#10094;</a>
 <a class="next" onclick="plusSlides2(1)">&#10095;</a>
 </div>
-</div>
+
 
 
 <!-- Paragrap Text 2 column -->
