@@ -71,23 +71,24 @@
 -->
 
 <!-- Paragrap Text 2 column -->
-<div>
-  <div class="column" style="width:50%;">
-    <div>New</div>
-    <div>SEPTEMBER 10,2016</div>
-    <div>Manila Bridge Re-construction </div>
-    <div>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus Placerat enim et urna sagittis, rhoncus euismod...</div>
+<div class="row">
+  <div class="column side">
+    <h2>Side</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit..</p>
   </div>
-  <div class="column" style="width:50%;">
-    <div>Testimonials</div>
-    <div>"Lorem ipsum dolor sit amet, consectetur
-adipiscing elit. Phasellus placerat enim et urna 
-sagittis, rhoncus euismod erat tincidunt. Donec
-tincidunt volupat erat."
-</div>
-    <div>- John Doe Dueller</div>
+  
+  <div class="column middle">
+    <h2>Main Content</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet pretium urna. Vivamus venenatis velit nec neque ultricies, eget elementum magna tristique. Quisque vehicula, risus eget aliquam placerat, purus leo tincidunt eros, eget luctus quam orci in velit. Praesent scelerisque tortor sed accumsan convallis.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet pretium urna. Vivamus venenatis velit nec neque ultricies, eget elementum magna tristique. Quisque vehicula, risus eget aliquam placerat, purus leo tincidunt eros, eget luctus quam orci in velit. Praesent scelerisque tortor sed accumsan convallis.</p>
+  </div>
+  
+  <div class="column side">
+    <h2>Side</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit..</p>
   </div>
 </div>
+
 
 
 <!--Footer-->
