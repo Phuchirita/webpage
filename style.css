@@ -22,6 +22,11 @@
     position: relative;
     margin: auto;
   }
+  .slide-showmulti{
+    max-width: 500px;
+    position: relative;
+    margin: auto;
+  }
   .SlideImage1 {display: none}
   .SlideImage2 {display: none}
   .text {
