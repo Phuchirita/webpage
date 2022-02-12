@@ -7,6 +7,8 @@
 .txtheader{
     padding: 30px;
     font-size: 20px;
+    text-align: center;
+    font-family: fontraleway;
 }
 .body{
         width: 80%; 
