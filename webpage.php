@@ -6,7 +6,7 @@
 <body>
     
 <div class="txtheader">
-<a class="navi1">BERYLLIUM</a>
+<a>BERYLLIUM</a>
 <a>HOME</a>
 <a>ABOUT</a>
 <a>SERVICES</a>
@@ -15,9 +15,8 @@
 <a>CONTACT</a>
 </div>
 
-
-<div class="row">
-  <div class="column side" style="background-color:#aaa;">Column</div>
+<div>
+  <div>Column</div>
 </div>
 
 <div class="footer">
