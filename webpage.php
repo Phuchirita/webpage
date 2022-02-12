@@ -15,21 +15,21 @@
 <a>CONTACT</a>
 </div>
 
-<div>
+<div style="width: 60%;">
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <img src="slider_1.jpg" style="width:100%">
+  <img src="slider_1.jpg" style="width:70%">
   <div class="text">Arhitecture#1</div>
 </div>
 
 <div class="mySlides fade">
-  <img src="slider_2.jpg" style="width:100%">
+  <img src="slider_2.jpg" style="width:70%">
   <div class="text">Arhitecture#2</div>
 </div>
 
 <div class="mySlides fade">
-  <img src="slider_3.jpg" style="width:100%">
+  <img src="slider_3.jpg" style="width:70%">
   <div class="text">Arhitecture#3</div>
 </div>
 
