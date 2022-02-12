@@ -47,10 +47,10 @@
 </div>
 <br>
 <!--Slide Image dot-->
-
+<div class="row">
 <div class="slides-container">
 
-<div class="row">
+
   <div class="column">
     <div class="content">
       <img src="img_1.jpg" style="width:50%">
