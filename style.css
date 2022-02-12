@@ -104,13 +104,13 @@
 }
 
 /*SlidePlace*/
-.slides-container {
+.slides-container{
     max-width: 1000px;
     position: relative;
     margin: auto;
     overflow: auto;
     /*white-space: nowrap;*/
   }
-  .content {
-    padding: 5px;
+  .slide {
+    display: none;
   }

@@ -48,15 +48,16 @@
 <br>
 <!--Slide Image dot-->
 <div class="slides-container">
-  
+  <div class="slide">
       <img src="img_1.jpg">
       <div>New York Area</div>
       <div>New York</div>
-
+  </div>
+  <div class="slide">
       <img src="img_2.jpg">
       <div>Eagel Park</div>
       <div>London</div>
-  
+  </div>
 <div style="text-align:center">
   <span class="dot" onclick="currentSlide2(1)"></span> 
   <span class="dot" onclick="currentSlide2(2)"></span> 
