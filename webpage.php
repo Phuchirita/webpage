@@ -47,9 +47,8 @@
 </div>
 <br>
 <!--Slide Image dot-->
-<div class="slideshow-container">
 <div class="slides-container">
- 
+  
       <img src="img_1.jpg">
       <div>New York Area</div>
       <div>New York</div>
@@ -58,7 +57,6 @@
       <div>Eagel Park</div>
       <div>London</div>
   
-</div>
 <div style="text-align:center">
   <span class="dot" onclick="currentSlide2(1)"></span> 
   <span class="dot" onclick="currentSlide2(2)"></span> 
@@ -89,6 +87,8 @@ tincidunt volupat erat."
     <div>- John Doe Dueller</div>
   </div>
 </div>
+
+
 <!--Footer-->
 <div class="footer">
   <p></p>

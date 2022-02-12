@@ -105,8 +105,11 @@
 
 /*SlidePlace*/
 .slides-container {
+    max-width: 1000px;
+    position: relative;
+    margin: auto;
     overflow: auto;
-    white-space: nowrap;
+    /*white-space: nowrap;*/
   }
   .content {
     padding: 5px;
