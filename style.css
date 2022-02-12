@@ -2,6 +2,7 @@
 .txtheader{
     padding: 30px;
     font-size: 20px;
+    width: 100%;
 }
 .body{
         width: 80%; 
