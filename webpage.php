@@ -37,6 +37,12 @@
 <a class="next" onclick="plusSlides(1)">&#10095;</a>
 
 </div>
+  <p class="txth">Work</p><br>
+  <p class="txtp">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat enim</p><br>
+  <p class="txtp">et urna sagittis, rhoncus euismod erat tincidunt. Donec tincidunt Volutpat erat.</p>
+</div>
+
+<div>
 </div>
 
 <div class="footer">
