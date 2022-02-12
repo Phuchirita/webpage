@@ -53,9 +53,7 @@
       <img src="img_1.jpg">
       <div>New York Area</div>
       <div>New York</div>
-  </div>
-
-    <div>
+      
       <img src="img_2.jpg">
       <div>Eagel Park</div>
       <div>London</div>
