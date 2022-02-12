@@ -21,6 +21,7 @@
     max-width: 1000px;
     position: relative;
     margin: auto;
+    padding-bottom: 40px;
   }
   .SlideImage1 {display: none}
   .SlideImage2 {display: none}

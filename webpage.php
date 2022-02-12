@@ -54,13 +54,14 @@
   <div>New York Area</div>
   <div>New York</div>
 </div>
-
+</div>
+<div class="slides-container">
 <div class="SlideImage2 fade">
   <img src="img_2.jpg" style="width:50%">
   <div>Eagel Park</div>
   <div>London</div>
 </div>
-
+</div>
 <div style="text-align:center">
   <span class="dot" onclick="currentSlide2(1)"></span> 
   <span class="dot" onclick="currentSlide2(2)"></span> 
@@ -69,9 +70,10 @@
 
 <a class="prev" onclick="plusSlides2(-1)">&#10094;</a>
 <a class="next" onclick="plusSlides2(1)">&#10095;</a>
-</div>
+
 </div>
 
+<!-- Paragrap Text 2 column -->
 <!--Footer-->
 <div class="footer">
   <p></p>
