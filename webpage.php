@@ -37,9 +37,9 @@
 <a class="next" onclick="plusSlides(1)">&#10095;</a>
 <!--Paragrapt Work-->
 </div>
-  <p class="txth">Work</p>
-  <p class="txtp">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat enim
-  et urna sagittis, rhoncus euismod erat tincidunt. Donec tincidunt Volutpat erat.</p>
+  <div class="txth">Work</div>
+  <div class="txtp">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat enim</div>
+  <div>et urna sagittis, rhoncus euismod erat tincidunt. Donec tincidunt Volutpat erat.</div>
 </div>
 <!--Slide Image dot-->
 <div>
