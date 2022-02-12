@@ -125,34 +125,26 @@ img {
 	padding: 5px;
 }
 
-/*.slick-dots {
+
+.slick-dots {
     text-align: center;
   margin: 0 0 10px 0;
   padding: 0;
-  li{
+}
+
+li{
     display:inline-block;
     margin-left: 4px;
     margin-right: 4px;
-    &.slick-active {
-      button {
-        background-color:black;
-      }
-    }
-    button {
-      font: 0/0 a;
-      text-shadow: none;
-      color: transparent;
-      background-color:#999;
-      border:none;
-      width: 15px;
-      height: 15px;
-      border-radius:50%;
-    }
-		:hover{
-			background-color: black;
-		}
-  }
-}*/
+}
+
+.slick-active, button { 
+      background-color:black;
+  } 
+
+button:hover{
+    background-color: black;
+}
 
 
 /* Custom Arrow */
