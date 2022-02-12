@@ -80,7 +80,13 @@
     <div>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus Placerat enim et urna sagittis, rhoncus euismod...</div>
   </div>
   <div class="column" style="width:50%;">
-  
+    <div>Testimonials</div>
+    <div>"Lorem ipsum dolor sit amet, consectetur
+adipiscing elit. Phasellus placerat enim et urna 
+sagittis, rhoncus euismod erat tincidunt. Donec
+tincidunt volupat erat."
+</div>
+    <div>- John Doe Dueller</div>
   </div>
 </div>
 <!--Footer-->
