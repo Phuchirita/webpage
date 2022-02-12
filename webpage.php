@@ -49,15 +49,14 @@
 <!--Slide Image dot-->
 
 <div class="slides-container">
-
     <div class="content">
-      <img src="img_1.jpg" style="width:50%">
+      <img src="img_1.jpg">
       <div>New York Area</div>
       <div>New York</div>
     </div>
 
     <div class="content">
-      <img src="img_2.jpg" style="width:50%">
+      <img src="img_2.jpg">
       <div>Eagel Park</div>
       <div>London</div>
     </div>
