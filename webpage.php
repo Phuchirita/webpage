@@ -50,5 +50,11 @@
 <div class="footer">
   <p></p>
 </div>
+
+<script type="text/javascript">
+   $(function(){
+      plusSlides($n);
+   });
+</script>
 </body>
 </html>
