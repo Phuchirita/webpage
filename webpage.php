@@ -5,7 +5,6 @@
     <!--<script type="text/javascript" src="scriptaction.js"></script>-->
 </head>
 <body>
-<div style="width:100%;">
 <!--Navigation bar-->
 <div class="txtheader">
 <a>BERYLLIUM</a>
@@ -95,7 +94,7 @@ tincidunt volupat erat."
 <div class="footer">
   <p></p>
 </div>
-</div>
+
 <!--Script Slide Image Architecture-->
 <script type="text/javascript">
 var slideIndex = 1;
