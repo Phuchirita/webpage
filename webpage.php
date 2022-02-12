@@ -5,7 +5,7 @@
     <!--<script type="text/javascript" src="scriptaction.js"></script>-->
 </head>
 <body>
-<div style="width: 100%;">
+<div style="width:100%;">
 <!--Navigation bar-->
 <div class="txtheader">
 <a>BERYLLIUM</a>
@@ -47,7 +47,7 @@
 </div>
 <br>
 <!--Slide Image dot-->
-<!--<div class="slides-container">
+<div class="slides-container">
   <div class="slide">
       <img src="img_1.jpg">
       <div>New York Area</div>
@@ -67,11 +67,11 @@
 <a class="prev" onclick="plusSlides2(-1)">&#10094;</a>
 <a class="next" onclick="plusSlides2(1)">&#10095;</a>
 
-</div>-->
+</div>
 
 
 <!-- Paragrap Text 2 column -->
-<div class="row">
+<div>
   <div class="column" style="width:50%;">
     <div>New</div>
     <div>SEPTEMBER 10,2016</div>
