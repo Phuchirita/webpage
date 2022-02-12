@@ -6,7 +6,7 @@
 <body>
     
 <div class="txtheader">
-<a>BERYLLIUM</a>
+<a class="navi1">BERYLLIUM</a>
 <a>HOME</a>
 <a>ABOUT</a>
 <a>SERVICES</a>
