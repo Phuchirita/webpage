@@ -38,7 +38,7 @@
 </div>
 <br>
 <!--Paragrapt Work-->
-<div>
+<div style="padding-bottom:30px;">
   <div class="txth">Work</div>
   <br>
   <div class="txtp">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat enim</div>
