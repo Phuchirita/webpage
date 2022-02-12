@@ -18,17 +18,17 @@
 <!--Slide Image Architecture-->
 <div class="slideshow-container">
 
-<div class="mySlides fade">
+<div class="SlideImage1 fade">
   <img src="slider_1.jpg" style="width:100%">
   <div class="text">Arhitecture#1</div>
 </div>
 
-<div class="mySlides fade">
+<div class="SlideImage1 fade">
   <img src="slider_2.jpg" style="width:100%">
   <div class="text">Arhitecture#2</div>
 </div>
 
-<div class="mySlides fade">
+<div class="SlideImage1 fade">
   <img src="slider_3.jpg" style="width:100%">
   <div class="text">Arhitecture#3</div>
 </div>
@@ -54,25 +54,25 @@
 <!--Slide Image dot-->
 <div class="slideshow-container">
 
-<div class="mySlides fade">
+<div class="SlideImage2 fade">
   <img src="img_1.jpg" style="width:100%">
   <div>New York Arena</div>
   <div>New York</div>
 </div>
 
-<div class="mySlides fade">
+<div class="SlideImage2 fade">
   <img src="img_2.jpg" style="width:100%">
   <div>Eagle Park</div>
   <div>London</div>
 </div>
 
-<div class="mySlides fade">
+<div class="SlideImage2 fade">
   <img src="img_3.jpg" style="width:100%">
   <div>Nationals Park</div>
   <div>Paris, Frans</div>
 </div>
 
-<div class="mySlides fade">
+<div class="SlideImage2 fade">
   <img src="img_4.jpg" style="width:100%">
   <div>Test</div>
   <div>Test</div>
@@ -101,7 +101,7 @@ showSlides(1, 1);
 //showSlides(slideIndex);
 
 function plusSlides(n,no) {
-  showSlides(slideIndex[no] += n);
+  showSlides(slideIndex[no] += n, no);
 }
 
 /*function currentSlide(n,no) {
