@@ -6,7 +6,15 @@
 <body>
     
 <div>
-<div class="txtheader">BERYLLIUM</div>
+<div class="txtheader">
+<a>BERYLLIUM</a>
+<a>HOME</a>
+<a>ABOUT</a>
+<a>SERVICES</a>
+<a>DROPDOWN</a>
+<a>PORTFOLIO</a>
+<a>CONTACT</a>
+</div>
 </div>
 
 <div class="row">
