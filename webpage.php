@@ -5,14 +5,14 @@
 </head>
 <body>
     
-<div class="txtheader">
-<a>BERYLLIUM</a>
-<a>HOME</a>
+<div>
+<div class="txtheader"><a>BERYLLIUM</a></div>
+<div class="navi"><a>HOME</a>
 <a>ABOUT</a>
 <a>SERVICES</a>
 <a>DROPDOWN</a>
 <a>PORTFOLIO</a>
-<a>CONTACT</a>
+<a>CONTACT</a></div>
 </div>
 
 
