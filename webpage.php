@@ -38,15 +38,16 @@
 
 </div>
   <p class="txth">Work</p>
-  <p class="txtp">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat enim</p>
-  <p class="txtp">et urna sagittis, rhoncus euismod erat tincidunt. Donec tincidunt Volutpat erat.</p>
+  <p class="txtp">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat enim
+  et urna sagittis, rhoncus euismod erat tincidunt. Donec tincidunt Volutpat erat.</p>
 </div>
 
 <div>
+
 </div>
 
 <div class="footer">
-  <p>Footer</p>
+  <p></p>
 </div>
 
 <script>
