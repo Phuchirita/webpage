@@ -15,7 +15,7 @@
 <a>CONTACT</a>
 </div>
 
-<div style="width: 60%;">
+<div style="width: 80%;">
 <div class="slideshow-container">
 
 <div class="mySlides fade">
@@ -37,8 +37,8 @@
 <a class="next" onclick="plusSlides(1)">&#10095;</a>
 
 </div>
-  <p class="txth">Work</p><br>
-  <p class="txtp">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat enim</p><br>
+  <p class="txth">Work</p>
+  <p class="txtp">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat enim</p>
   <p class="txtp">et urna sagittis, rhoncus euismod erat tincidunt. Donec tincidunt Volutpat erat.</p>
 </div>
 
