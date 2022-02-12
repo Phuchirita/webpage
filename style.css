@@ -106,7 +106,7 @@
 /*SlidePlace*/
 .slides-container{
     max-width: 1000px;
-    position: relative;
+    /*position: relative;*/
     margin: auto;
     overflow: auto;
     white-space: nowrap;
@@ -116,64 +116,12 @@
   }
 
 
-  html {box-sizing: border-box;}
-*, *:before, *:after {box-sizing: inherit;}
+  /*Paragrap*/
 
-img {
-  width: 100%;
-  height: auto;
-	padding: 5px;
+.column{
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 300px;
 }
 
-
-.slick-dots {
-    text-align: center;
-  margin: 0 0 10px 0;
-  padding: 0;
-}
-
-li{
-    display:inline-block;
-    margin-left: 4px;
-    margin-right: 4px;
-}
-
-.slick-active, button { 
-      background-color:black;
-  } 
-
-button:hover{
-    background-color: black;
-}
-
-
-/* Custom Arrow */
-.prev{
-	color: #999;
-	position: absolute;
-	top: 38%;
-	left: -2em;
-	font-size: 1.5em;
-}
-.prev:hover{
-    cursor: pointer;
-	color: black;
-}
-.next{
-	color: #999;
-	position: absolute;
-	top: 38%;
-	right: -2em;
-	font-size: 1.5em;
-}
-
-.next:hover{
-    cursor: pointer;
-	color: black;
-}
-
-@media screen and (max-width: 800px) {
-    .next {
-        display: none !important;
-    }
-}
