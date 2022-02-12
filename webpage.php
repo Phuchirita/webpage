@@ -47,6 +47,7 @@
 </div>
 <br>
 <!--Slide Image dot-->
+<!--
 <div class="slides-container">
   <div class="slide">
       <img src="img_1.jpg">
@@ -68,7 +69,7 @@
 <a class="next" onclick="plusSlides2(1)">&#10095;</a>
 
 </div>
-
+-->
 
 <!-- Paragrap Text 2 column -->
 <div>
