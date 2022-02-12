@@ -50,19 +50,20 @@
 
 <div class="slides-container">
 
-<div class="slide-showmulti">
-  <div class="SlideImage2 fade">
-    <img src="img_1.jpg" style="width:50%">
-    <div>New York Area</div>
-    <div>New York</div>
+<div class="row">
+  <div class="column">
+    <div class="SlideImage2 fade">
+      <img src="img_1.jpg" style="width:50%">
+      <div>New York Area</div>
+      <div>New York</div>
+    </div>
   </div>
-</div>
-
-<div class="slide-showmulti">
-  <div class="SlideImage2 fade">
-    <img src="img_2.jpg" style="width:50%">
-    <div>Eagel Park</div>
-    <div>London</div>
+  <div class="column">
+    <div class="SlideImage2 fade">
+      <img src="img_2.jpg" style="width:50%">
+      <div>Eagel Park</div>
+      <div>London</div>
+    </div>
   </div>
 </div>
 
