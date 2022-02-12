@@ -15,7 +15,7 @@
 <a>CONTACT</a>
 </div>
 
-<div style="width: 70%;">
+<div>
 <div class="slideshow-container">
 
 <div class="mySlides fade">
