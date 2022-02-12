@@ -39,7 +39,7 @@
 </div>
   <div class="txth">Work</div>
   <div class="txtp">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat enim</div>
-  <div>et urna sagittis, rhoncus euismod erat tincidunt. Donec tincidunt Volutpat erat.</div>
+  <div class="txtp">et urna sagittis, rhoncus euismod erat tincidunt. Donec tincidunt Volutpat erat.</div>
 </div>
 <!--Slide Image dot-->
 <div>
