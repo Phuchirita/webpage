@@ -49,16 +49,16 @@
 <!--Slide Image dot-->
 <div class="slideshow-container">
 <div class="slides-container">
-  <div>
+ 
       <img src="img_1.jpg">
       <div>New York Area</div>
       <div>New York</div>
-      
+
       <img src="img_2.jpg">
       <div>Eagel Park</div>
       <div>London</div>
-    </div>
-
+  
+</div>
 <div style="text-align:center">
   <span class="dot" onclick="currentSlide2(1)"></span> 
   <span class="dot" onclick="currentSlide2(2)"></span> 
@@ -67,7 +67,7 @@
 
 <a class="prev" onclick="plusSlides2(-1)">&#10094;</a>
 <a class="next" onclick="plusSlides2(1)">&#10095;</a>
-</div>
+
 </div>
 
 
