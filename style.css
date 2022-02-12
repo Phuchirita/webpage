@@ -1,7 +1,7 @@
 /*Template Font*/
 @font-face {
     font-family: fontraleway;
-    src: url(sansation_light.woff);
+    src: url(RALEWAY-MEDIUM.TTF);
   }
 /*Navigation bar*/
 .txtheader{
@@ -75,7 +75,9 @@
 .txth{
     text-align: center;
     font-size: 20px;
+    font-family: 'Times New Roman';
 }
 .txtp{
     text-align: center;
+    font-family: fontraleway;
 }
