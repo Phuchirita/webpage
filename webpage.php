@@ -71,7 +71,7 @@
 -->
 
 <!-- Paragrap Text 2 column -->
-<div class="row">
+<div class="row" style="width:auto;">
   <div class="column side">
     <h2>Side</h2>
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit..</p>
