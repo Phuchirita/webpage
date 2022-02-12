@@ -1,12 +1,12 @@
 .txtheader{
     padding: 30px;
     font-size: 20px;
-    width: 80%; 
+    width: 60%; 
     text-align: center;
 }
 .body{
         width: 80%; 
 }
-.navi{
-    float:right;
+.navi1{
+    width: 60%;
 }
