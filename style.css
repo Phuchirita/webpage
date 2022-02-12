@@ -22,11 +22,6 @@
     position: relative;
     margin: auto;
   }
-  .slide-showmulti{
-    max-width: 500px;
-    position: relative;
-    margin: auto;
-  }
   .SlideImage1 {display: none}
   .SlideImage2 {display: none}
   .text {
@@ -114,3 +109,23 @@
     position: relative;
     margin: auto;
   }
+  .content {
+    padding: 5px;
+  }
+  .column {
+    float: left;
+    width: 30%;
+  }
+  @media screen and (max-width: 900px) {
+    .column {
+      width: 50%;
+    }
+  }
+  @media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
+    }
+  }.column {
+  float: left;
+  width: 25%;
+}  

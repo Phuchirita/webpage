@@ -52,14 +52,14 @@
 
 <div class="row">
   <div class="column">
-    <div class="SlideImage2 fade">
+    <div class="content">
       <img src="img_1.jpg" style="width:50%">
       <div>New York Area</div>
       <div>New York</div>
     </div>
   </div>
   <div class="column">
-    <div class="SlideImage2 fade">
+    <div class="content">
       <img src="img_2.jpg" style="width:50%">
       <div>Eagel Park</div>
       <div>London</div>
@@ -79,6 +79,17 @@
 
 
 <!-- Paragrap Text 2 column -->
+<div class="row" style="width: 100%;">
+  <div class="column" style="width:50%;">
+    <div>New</div>
+    <div>SEPTEMBER 10,2016</div>
+    <div>Manila Bridge Re-construction </div>
+    <div>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus Placerat enim et urna sagittis, rhoncus euismod...</div>
+  </div>
+  <div class="column" style="width:50%;">
+  
+  </div>
+</div>
 <!--Footer-->
 <div class="footer">
   <p></p>
