@@ -6,13 +6,13 @@
 <body>
     
 <div>
-<div class="txtheader"><a>BERYLLIUM</a></div>
-<div class="navi"><a>HOME</a>
-<a>ABOUT</a>
-<a>SERVICES</a>
-<a>DROPDOWN</a>
-<a>PORTFOLIO</a>
-<a>CONTACT</a></div>
+<a>BERYLLIUM</a>
+<a class="navi">HOME</a>
+<a class="navi">ABOUT</a>
+<a class="navi">SERVICES</a>
+<a class="navi">DROPDOWN</a>
+<a class="navi">PORTFOLIO</a>
+<a class="navi">CONTACT</a>
 </div>
 
 
