@@ -33,14 +33,8 @@
   <div class="text">Arhitecture#3</div>
 </div>
 
-<!--<div style="text-align:center">
-  <span class="dot" onclick="currentSlide(1)"></span> 
-  <span class="dot" onclick="currentSlide(2)"></span> 
-  <span class="dot" onclick="currentSlide(3)"></span> 
-</div>-->
-
-<a class="prev" onclick="plusSlides(-1,0)">&#10094;</a>
-<a class="next" onclick="plusSlides(1,0)">&#10095;</a>
+<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+<a class="next" onclick="plusSlides(1)">&#10095;</a>
 </div>
 <br>
 <!--Paragrapt Work-->
@@ -52,40 +46,30 @@
 </div>
 <br>
 <!--Slide Image dot-->
-<div class="slideshow-container">
+<div>
+<div class="slides-container">
 
 <div class="SlideImage2 fade">
-  <img src="img_1.jpg" style="width:100%">
-  <div>New York Arena</div>
+  <img src="img_1.jpg" style="width:50%">
+  <div>New York Area</div>
   <div>New York</div>
 </div>
 
 <div class="SlideImage2 fade">
-  <img src="img_2.jpg" style="width:100%">
-  <div>Eagle Park</div>
+  <img src="img_2.jpg" style="width:50%">
+  <div>Eagel Park</div>
   <div>London</div>
 </div>
 
-<div class="SlideImage2 fade">
-  <img src="img_3.jpg" style="width:100%">
-  <div>Nationals Park</div>
-  <div>Paris, Frans</div>
-</div>
-
-<div class="SlideImage2 fade">
-  <img src="img_4.jpg" style="width:100%">
-  <div>Test</div>
-  <div>Test</div>
-</div>
-
-<a class="prev" onclick="plusSlides(-1,1)">&#10094;</a>
-<a class="next" onclick="plusSlides(1,1)">&#10095;</a>
-
-<!--<div style="text-align:center">
+<div style="text-align:center">
   <span class="dot" onclick="currentSlide(1)"></span> 
   <span class="dot" onclick="currentSlide(2)"></span> 
   <span class="dot" onclick="currentSlide(3)"></span> 
-</div>-->
+</div>
+
+<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+<a class="next" onclick="plusSlides(1)">&#10095;</a>
+</div>
 </div>
 
 <!--Footer-->
@@ -94,44 +78,52 @@
 </div>
 <!--Script Slide Image Architecture-->
 <script type="text/javascript">
-var slideIndex = [1,1];
-var slideId = ["SlideImage1", "SlideImage2"]
-showSlides(1, 0);
-showSlides(1, 1);
-//showSlides(slideIndex);
+var slideIndex = 1;
+showSlides(slideIndex);
 
-function plusSlides(n,no) {
-  showSlides(slideIndex[no] += n, no);
+function plusSlides(n) {
+  showSlides(slideIndex += n);
 }
 
-/*function currentSlide(n,no) {
-  showSlides(slideIndex[no] = n);
-}*/
-function showSlides(n, no) {
+function showSlides(n) {
   var i;
-  var x = document.getElementsByClassName(slideId[no]);
-  if (n > x.length) {slideIndex[no] = 1}    
-  if (n < 1) {slideIndex[no] = x.length}
-  for (i = 0; i < x.length; i++) {
-     x[i].style.display = "none";  
-  }
-  x[slideIndex[no]-1].style.display = "block"; 
-}
-/*function showSlides(n) {
-  var i;
-  var slides = document.getElementsByClassName("mySlides");
+  var slides = document.getElementsByClassName("SlideImage1");
   var dots = document.getElementsByClassName("dot");
   if (n > slides.length) {slideIndex = 1}    
-  if (n < 1) {slideIndex[] = slides.length}
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";  
+  }
+  slides[slideIndex-1].style.display = "block";  
+}
+/*Slide Picture2*/
+var slideIndex2 = 1;
+showSlides2(slideIndex2);
+
+function plusSlides2(n) {
+  showSlides2(slideIndex2 += n);
+}
+
+function currentSlide2(n) {
+  showSlides2(slideIndex2 = n);
+}
+
+function showSlides2(n) {
+  var i;
+  var slides = document.getElementsByClassName("SlideImage2");
+  var dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {slideIndex2 = 1}    
+  if (n < 1) {slideIndex2 = slides.length}
   for (i = 0; i < slides.length; i++) {
       slides[i].style.display = "none";  
   }
   for (i = 0; i < dots.length; i++) {
       dots[i].className = dots[i].className.replace(" active", "");
   }
-  slides[slideIndex-1].style.display = "block";  
-  dots[slideIndex-1].className += " active";
-}*/
+  slides[slideIndex2-1].style.display = "block";  
+  dots[slideIndex2-1].className += " active";
+}
 </script>
+
 </body>
 </html>

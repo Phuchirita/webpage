@@ -102,3 +102,10 @@
     font-size: 25px;
     color: #D1D1D1;
 }
+
+/*SlidePlace*/
+.slides-container {
+    max-width: 1000px;
+    position: relative;
+    margin: auto;
+  }
