@@ -18,6 +18,12 @@ text-align: left;
 padding-right:250px;
 font-weight: bold;
 }
+body{
+  width:100%;
+  padding:0px;
+  margin:0px;
+  height:100%;
+}
 .navi{
 font-size: 40px;
 }
