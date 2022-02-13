@@ -8,19 +8,9 @@
 }
 /*Navigation bar*/
 .txtheader{
-  width: auto;
   padding: 30px;
   font-size: 20px;
   font-family: fontraleway;
-  text-align: center;
-}
-.head{
-text-align: left;
-padding-right:250px;
-font-weight: bold;
-}
-.navi{
-font-size: 40px;
 }
 
 /*SlidePhotoArchitecture*/
@@ -209,7 +199,6 @@ font-size: 40px;
 /*Paragrap before footer*/
 .columnp{
 float: left;
-width: 330px;
 }
 .rowp{
 max-width: 1000px;
@@ -221,9 +210,6 @@ padding-left: 50px;
 content: "";
 display: table;
 clear: both;
-}
-.rowc{
-  width: 330px;
 }
 .columnc{
 float: left;

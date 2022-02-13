@@ -4,16 +4,18 @@
     <link rel = "stylesheet" type = "text/css" href = "style.css"> 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
-<body style="width: auto;margin:0px;">
+<body style="width: 100%;">
 <!--Navigation bar-->
-<div class="txtheader">
-<a style="text-align: left;padding-right:350px;font-weight: bold;">BERYLLIUM</a>
-<a style="font-size: 15px;padding-right:10px;">HOME</a>
-<a style="font-size: 15px;padding-right:10px;">ABOUT</a>
-<a style="font-size: 15px;padding-right:10px;">SERVICES<i class="fa fa-angle-down" style="padding-left:5px;"></i></a>
-<a style="font-size: 15px;padding-right:10px;">DROPDOWN<i class="fa fa-angle-down" style="padding-left:5px;"></i></a>
-<a style="font-size: 15px;padding-right:10px;">PORTFOLIO</a>
-<a style="font-size: 15px;">CONTACT</a>
+<div class="rowf">
+  <div class="txtheader" style="width: 100%;">
+    <a style="text-align: left;font-weight: bold;padding-right:20%;width:10%">BERYLLIUM</a>
+    <a style="font-size: 15px;padding-right:1%;width:11%">HOME</a>
+    <a style="font-size: 15px;padding-right:1%;width:11%">ABOUT</a>
+    <a style="font-size: 15px;padding-right:1%;width:12%">SERVICES<i class="fa fa-angle-down" style="padding-left:5px;"></i></a>
+    <a style="font-size: 15px;padding-right:1%;width:12%">DROPDOWN<i class="fa fa-angle-down" style="padding-left:5px;"></i></a>
+    <a style="font-size: 15px;padding-right:1%;width:11%">PORTFOLIO</a>
+    <a style="font-size: 15px;">CONTACT</a>
+  </div>
 </div>
 
 <!--Slide Image Architecture-->
@@ -111,41 +113,36 @@
 <!-- Paragrap before footer -->
 <hr style="width:100%;text-align:center;">
 <div class="rowp" style="padding-top: 30px;">
-  <div class="columnp">
-    <div class="rowc">
-      <div class="columnc" style="width: 60px;">
-        <i class="fa fa-file-zip-o" style="font-size:40px"></i>
+  <div class="columnp" style="width: 33%;">
+      <div class="columnc" style="width: 20%;">
+        <i class="fa fa-file-zip-o" style="font-size:35px"></i>
       </div>
-      <div class="columnc" style="width: 260px;padding-left:10px;"> 
+      <div class="columnc" style="width: 80%;"> 
         <h1 class="hdf">ARCHITECT</h1>
         <p class="detailf">Lorem ipsum dolor sit ameteista,consectetur is not elitistaris.</p>
         <a class="link">LEARN MORE</a>
       </div>
-    </div>
   </div>
-  <div class="columnp">
-  <div class="rowc">
-      <div class="columnc" style="width: 60px;">
-        <i class="fa fa-file-text-o" style="font-size:40px"></i>
-      </div>
-      <div class="columnc" style="width: 260px;padding-left:10px;"> 
-        <h1 class="hdf">PLANNING</h1>
-        <p class="detailf">Lorem ipsum dolor sit ameteista,consectetur is not elitistaris.</p>
-        <a class="link">LEARN MORE</a>
-      </div>
-    </div>
+  <div class="columnp" style="width: 33%;">
+        <div class="columnc" style="width: 20%;">
+          <i class="fa fa-file-text-o" style="font-size:35px"></i>
+        </div>
+        <div class="columnc" style="width: 80%;"> 
+          <h1 class="hdf">PLANNING</h1>
+          <p class="detailf">Lorem ipsum dolor sit ameteista,consectetur is not elitistaris.</p>
+          <a class="link">LEARN MORE</a>
+        </div>
   </div>
-  <div class="columnp">
-  <div class="rowc">
-      <div class="columnc" style="width: 60px;">
-        <i class="fa fa-calendar-o" style="font-size:40px"></i>
-      </div>
-      <div class="columnc" style="width: 260px;padding-left:10px;"> 
-        <h1 class="hdf">PARK & EVENTS</h1>
-        <p class="detailf">Lorem ipsum dolor sit ameteista,consectetur is not elitistaris.</p>
-        <a class="link">LEARN MORE</a>
-      </div>
-    </div>
+  <div class="columnp" style="width: 33%;">
+        <div class="columnc" style="width: 20%;">
+          <i class="fa fa-calendar-o" style="font-size:35px"></i>
+        </div>
+        <div class="columnc" style="width: 80%;"> 
+          <h1 class="hdf">PARK & EVENTS</h1>
+          <p class="detailf">Lorem ipsum dolor sit ameteista,consectetur is not elitistaris.</p>
+          <a class="link">LEARN MORE</a>
+        </div>
+
   </div>
 </div>
 
@@ -153,11 +150,11 @@
 <!--Footer-->
 <div class="footer rowfoot">
   <div class="rowf" style="padding-top:40px;padding-bottom:40px;">
-    <div class="columnfoot" style="width: 400px;">
+    <div class="columnfoot" style="width: 40%;">
       <h1 class="headder1">Beryllium</h1>
       <p class="text1">Lorem ipsum dolor sit amet, consectetur adipiscing elit, Phasellus placerat enim et urna sagittis, rhoncus euismod.</p>
     </div>
-    <div class="columnfoot" style="padding-left:30px;width: 120px;">
+    <div class="columnfoot" style="padding-left:3%;width: 12%;">
       <h1 class="headder1">Link</h1>
       <p class="text2">HOME</p>
       <p class="text2">FEATURES</p>
@@ -165,14 +162,14 @@
       <p class="text2">TESTIMONIAL</p>
       <p class="text2">CONTACT</p>
     </div>
-    <div class="columnfoot" style="padding-left:20px;width: 150px;">
+    <div class="columnfoot" style="padding-left:2%;width: 15%;">
     <h1 class="headder1">Work</h1>
       <p class="text2">NEW YORK ARENA</p>
       <p class="text2">EAGLE PARK</p>
       <p class="text2">NATIONALS PARK</p>
       <p class="text2">MANILA PARK</p>
     </div>
-    <div class="columnfoot" style="padding-left:50px;width: 230px;">
+    <div class="columnfoot" style="padding-left:5%;width: 23%;">
       <input type="text" id="email" name="email" placeholder="Email">
       <input type="submit" value="SEND">
     </div>
@@ -182,10 +179,10 @@
 <!-- License Web -->
 <div class="lc rowfoot">
   <div class="rowf">
-  <div class="columnlc">
+  <div class="columnlc" style="width: 50%;">
       <p class="txtlc1">@2016 Free HTML5.All Rights Reserved.</p>
   </div>
-  <div class="columnlc" style="padding-top: 20px;">
+  <div class="columnlc" style="padding-top: 20px;width: 50%;">
       <a class="txtlc2">Designed by</a>
       <a class="font" style="color:#2EAC6D;">FreeHTML5.co </a>
       <a class="txtlc2">Demo Image: </a> 
@@ -245,8 +242,6 @@ function slideRight(event){
   }
   rowcont.style.marginLeft = right+"px";
 }
-
-/*window.onload=setWidth;*/
 
 </script>
 
