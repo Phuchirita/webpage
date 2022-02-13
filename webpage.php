@@ -47,40 +47,7 @@
   <div class="txtp">et urna sagittis, rhoncus euismod erat tincidunt. Donec tincidunt Volutpat erat.</div>
 </div>
 <br>
-<!--Slide Image dot
-<div class="slideshow-container" style="padding-bottom: 50px;">
-  <div class="rows">
-    <div class="columns" style="width: 100px;">
-      <div class="SlideImage2 fade">
-        <img class="imgs" src="img_1.jpg" style="padding-bottom: 30px;">
-        <div class="font" style="font-weight: bold;font-size:20px;padding-bottom:10px;">New York Area</div>
-        <div class="font" style="color: gray;">New York</div>
-      </div> 
-    </div>
-    <div class="columns" style="width: 100px;">
-      <div class="SlideImage2 fade">
-        <img class="imgs" src="img_2.jpg" style="padding-bottom: 10px;">
-        <p class="font" style="font-weight: bold;font-size:20px;">Eagel Park</p>
-        <p class="font" style="color: gray;">London</p>
-      </div> 
-    </div>
-    <div class="columns" style="width: 100px;">
-      <div class="SlideImage2 face">
-        <img class="imgs" src="img_3.jpg" style="padding-bottom: 10px;">
-        <p class="font" style="font-weight: bold;font-size:20px;">Nationals Park</p>
-        <p class="font" style="color: gray;">Frann, Paris</p>
-      </div> 
-    </div>
-  </div>
-  <div style="text-align:center">
-  <span class="dot" onclick="currentSlide2(1)"></span> 
-  <span class="dot" onclick="currentSlide2(2)"></span> 
-  <span class="dot" onclick="currentSlide2(3)"></span> 
-</div>
-  <a class="prev" onclick="plusSlides2(-1)">&#10094;</a>
-  <a class="next" onclick="plusSlides2(1)">&#10095;</a>
-</div>
--->
+
 <div class="carousel" style="padding-bottom: 60px;">
 <a class="prev" onclick="slideRight(this);">&#10094;</a>
   <div class="rows flt-left">
