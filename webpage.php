@@ -8,7 +8,7 @@
 <!--Navigation bar-->
 <div class="rowf">
   <div class="txtheader" style="width: 100%;">
-    <a style="text-align: left;font-weight: bold;padding-right:20%;width:10%">BERYLLIUM</a>
+    <a style="text-align: left;font-weight: bold;padding-right:28%;width:10%">BERYLLIUM</a>
     <a style="font-size: 15px;padding-right:1%;width:11%">HOME</a>
     <a style="font-size: 15px;padding-right:1%;width:11%">ABOUT</a>
     <a style="font-size: 15px;padding-right:1%;width:12%">SERVICES<i class="fa fa-angle-down" style="padding-left:5px;"></i></a>
